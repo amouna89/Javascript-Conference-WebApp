@@ -158,7 +158,7 @@ document.addEventListener("DOMContentLoaded",()=>{
 
                     if (boolean){   
                         input.value = "";
-                        alert("please choose a valid name");
+                        alert("The me should contain only letters");
                         
                     }
                     else{
